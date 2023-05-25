@@ -17,6 +17,15 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.skoob -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Skoob' }}"
+class="social-button skoob"
+href="https://www.skoob.com.br/perfil/{{ site.skoob }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-skoob"></i>
+</a>
+{%- endif -%}
+
 {%- if site.github -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
 class="social-button github"
