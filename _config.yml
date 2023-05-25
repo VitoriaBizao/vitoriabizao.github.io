@@ -3,8 +3,8 @@
 title: Vitória Bizão Murakami
 description: Biotechnologist | Master Student in Genetics and Plant Breeding at University of São Paulo
 
-baseurl: /vitoriabizao.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: / #name of GitHub repository
+url: "https://vitoriabizao.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
@@ -14,9 +14,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#vitoriabizao"
+linkedin: "#"
 stackoverflow: "#"
-github: "#vitoriabizao"
+github: "#"
 researchgate: "#"
 orcid: "#"
 quora: "#"
