@@ -17,10 +17,5 @@ Grafitando na Federal exemplifies how art and culture projects can be a powerful
 | Final art on the wall |
 
 | ![](/assets/images/graf2.jpeg "tenk") | ![](/assets/images/graf5.jpeg "wall") |
-|:---:|---|
+|:---:|:---:|
 | Artist Danilo Tenk | Preparing the wall |
-
-
-| ![](/assets/images/graf1.jpg "ART") | ![](/assets/images/graf2.jpeg "tenk") | ![](/assets/images/graf5.jpeg "wall") |
-|:---:|:---:|:---:|
-| Final art on the wall | Artist Danilo Tenk | Preparing the wall |
