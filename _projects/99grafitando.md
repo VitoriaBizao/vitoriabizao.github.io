@@ -12,6 +12,15 @@ Grafitando na Federal aimed not only to beautify the environment but also to pro
 
 Grafitando na Federal exemplifies how art and culture projects can be a powerful tool to promote inclusion, stimulate dialogue and enrich the academic environment. It is a way of conveying messages, awakening emotions, and strengthening ties between community members.
 
-| ![](/assets/images/graf1.jpg "ART") | ![](/assets/images/graf2.jpeg "tenk") | ![](/assets/images/graf5.jpg "wall") |
+| ![](/assets/images/graf1.jpg "ART") |
+|:---:|
+| Final art on the wall |
+
+| ![](/assets/images/graf2.jpeg "tenk") | ![](/assets/images/graf5.jpeg "wall") |
+|:---:|---|
+| Artist Danilo Tenk | Preparing the wall |
+
+
+| ![](/assets/images/graf1.jpg "ART") | ![](/assets/images/graf2.jpeg "tenk") | ![](/assets/images/graf5.jpeg "wall") |
 |:---:|:---:|:---:|
 | Final art on the wall | Artist Danilo Tenk | Preparing the wall |
