@@ -4,7 +4,7 @@ title: Quantitative Genetics Videos
 description: Heredity, Variation, Selection
 ---
 
-Videos made for the Quantitative Genetics discipline, of the Post-graduate Program in Genetics and Plant Breeding at Esaql-USP, administered by professor Antonio Augusto Franco Garcia.
+Videos made for the Quantitative Genetics discipline, of the post-graduate program in Genetics and Plant Breeding at ESALQ/USP, administered by professor Antonio Augusto Franco Garcia.
 
 ### Single loci properties
 <div class="video-container">
