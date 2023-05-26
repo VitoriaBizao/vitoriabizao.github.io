@@ -10,7 +10,4 @@ It is a valuable opportunity for students to hear inspiring stories, gain insigh
 
 The Permuta Biotec project contributes to the academic and professional training of students by providing a broader view of a career in Biotechnology and allowing them to learn from the experience of other professionals. It is an initiative that strengthens the academic community and promotes the connection between different **generations** of students in the area.
 
-|                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](images/permuta1.jpg)                                                                                                                                       |
-| Members of \"Centro Acadêmico VI de março\". Left to right Luiz Gustavo Ribeiro, Vitória Bizão Murakami, Pedro Jorge Ramos, Cláudia Reginato e Caique Carvalho |
+<img width="1604" src="../assets/permuta1.jpg">
