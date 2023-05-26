@@ -3,13 +3,11 @@ layout: post
 title: Home They Brought Her Warrior Dead 
 ---
 
-# da
 Home they brought her warrior dead:  
 She nor swooned, nor uttered cry:  
 All her maidens, watching, said,  
 'She must weep or she will die.'  
 
-## fafdsa
 Then they praised him, soft and low,  
 Called him worthy to be loved,  
 Truest friend and noblest foe;  
