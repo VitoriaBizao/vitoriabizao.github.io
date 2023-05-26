@@ -4,7 +4,7 @@ title: Grafitando na Federal
 description: Artistic transformation
 ---
 
-The Grafitando na Federal project aimed to **transform** a large colorless wall into a cultural and artistic **expression** through graffiti. The wall, which was graffitied, was an area outside the college frequented by residents and students.
+The `Grafitando na Federal` project aimed to **transform** a large colorless wall into a cultural and artistic **expression** through graffiti. The wall, which was graffitied, was an area outside the college frequented by residents and students.
 
 The project's proposal was to bring **life and culture** to this area, using graffiti as a visual expression. For this, a contest was held in which artists were invited to create art that represented the identity of the college and the community. The winning artist of the competition, Danilo Tenk, graffitied on the wall, bringing colors, shapes, and meanings to the place.
 
