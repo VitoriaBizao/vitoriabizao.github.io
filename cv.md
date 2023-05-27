@@ -12,7 +12,7 @@ Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets
 
 ------------------------------------------------------------------------
 
-Vitória Bizão Murakami
+<p align="center">Vitória Bizão Murakami</p>
 
 Av. Pádua Dias, 11 -- Piracicaba, SP
 
