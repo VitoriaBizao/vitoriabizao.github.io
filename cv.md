@@ -9,15 +9,16 @@ editor_options:
 Download CV in English [PDF](/assets/files/CV_Vitoria_EN.pdf) \| [.docx](/assets/files/CV_Vitoria_EN.docx)
 
 Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
+------------------------------------------------------------------------
 
 <br>
 
-<p align="center">Vitória Bizão Murakami</p>
+Vitória Bizão Murakami
 
-<p align="center">Av. Pádua Dias, 11 - Piracicaba, SP</p>
+Av. Pádua Dias, 11 - Piracicaba, SP
 
-<center>[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
-[GitHub](https://github.com/VitoriaBizao)</center>
+[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
+[GitHub](https://github.com/VitoriaBizao)
 
 <br>
 
@@ -37,6 +38,7 @@ Project "Perfis de comunicação em grupos de pesquisa visando estratégias que 
 
 Bachelor in Biotechnology
 
+<br>
 
 ### Experiences
 ------------------------------------------------------------------------
@@ -80,6 +82,7 @@ I developed the project "Characterization of inorganic compounds in sugarcane ju
 
 I surveyed the activities of the Genetics and Biodiversity Laboratory at UFG, working on molecular markers and conservation of cerrado fruit species.
 
+<br>
 
 ### Skills
 ------------------------------------------------------------------------
@@ -89,4 +92,3 @@ I surveyed the activities of the Genetics and Biodiversity Laboratory at UFG, wo
 **Genetics:** Genetics and Statistics, Genomic Selection, Quantitative Genetics
 
 **Computer:** R, Linux, Excel
-
