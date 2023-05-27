@@ -6,6 +6,39 @@ editor_options:
     wrap: 72
 ---
 
+<<<<<<< HEAD
+1
+Download CV in Portuguese {% include button.html url="http://https://vitoriabizao.github.io/_data/CV_Vitoria.pdf" %}
+
+2
+<button name="button" onclick="http://https://vitoriabizao.github.io/_data/CV_Vitoria.pdf">Click me</button>
+
+3
+[Click me](http://www.google.com){: .btn}
+
+Download CV in English [PDF][3] \| [.docx][1]
+
+[2][2]
+
+[4][4]
+
+[1]:{{https://vitoriabizao.github.io/}}/_data/CV_Vitoria.pdf
+[2]:{{ https://vitoriabizao.github.io/ }}/_data/CV_Vitoria.docx
+[3]:/_data/CV_Vitoria_EN.pdf
+[4]:{{ site.url }}/_data/CV_Vitoria_EN.docx
+=======
+Download CV in Portuguese [PDF](/_files/CV_Vitoria.pdf) \| [.docx][2]
+
+Download CV in English [PDF][3] \| [.docx][4]
+
+[1]:{{https://vitoriabizao.github.io/}}/_files/CV_Vitoria.pdf
+[2]:{{ https://vitoriabizao.github.io/ }}/_files/CV_Vitoria.docx
+[3]:/_files/CV_Vitoria_EN.pdf
+[4]:{{ site.url }}/_files/CV_Vitoria_EN.docx
+>>>>>>> 5cb8c5975f00f5f43d76532ce304b3daf87e6aa4
+
+------------------------------------------------------------------------
+
 Vitória Bizão Murakami
 
 Av. Pádua Dias, 11 -- Piracicaba, SP
@@ -14,7 +47,6 @@ Av. Pádua Dias, 11 -- Piracicaba, SP
 [GitHub](https://github.com/VitoriaBizao)
 
 ### Education
-
 ------------------------------------------------------------------------
 
 **University of São Paulo** \| **Aug 2019 - Present**
