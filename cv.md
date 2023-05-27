@@ -9,6 +9,7 @@ editor_options:
 Download CV in English [PDF](/assets/files/CV_Vitoria_EN.pdf) \| [.docx](/assets/files/CV_Vitoria_EN.docx)
 
 Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
+
 ------------------------------------------------------------------------
 
 <br>
