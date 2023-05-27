@@ -6,13 +6,25 @@ editor_options:
     wrap: 72
 ---
 
-Download CV in Portuguese [PDF][1] | [.docx][2]
-Download CV in English [PDF][3] | [.docx][4]
+1
+Download CV in Portuguese {% include button.html url="http://https://vitoriabizao.github.io/_data/CV_Vitoria.pdf" %}
 
-[1]:{{ site.url }}/_files/CV_Vitória_EN.pdf
-[2]:{{ site.url }}/_files/file.pdf
-[3]:{{ site.url }}/files/CV_Vitória.pdf
-[4]:{{ site.url }}/files/file.pdf
+2
+<button name="button" onclick="http://https://vitoriabizao.github.io/_data/CV_Vitoria.pdf">Click me</button>
+
+3
+[Click me](http://www.google.com){: .btn}
+
+Download CV in English [PDF][3] \| [.docx][1]
+
+[2][2]
+
+[4][4]
+
+[1]:{{https://vitoriabizao.github.io/}}/_data/CV_Vitoria.pdf
+[2]:{{ https://vitoriabizao.github.io/ }}/_data/CV_Vitoria.docx
+[3]:/_data/CV_Vitoria_EN.pdf
+[4]:{{ site.url }}/_data/CV_Vitoria_EN.docx
 
 ------------------------------------------------------------------------
 
