@@ -6,11 +6,9 @@ editor_options:
     wrap: 72
 ---
 
-[Nome do Botão](/_data/CV_Vitoria.pdf){: .btn .btn-download}
+Download CV in English [get the PDF](/assets/files/CV_Vitoria.pdf) \| [.docx][1]
 
-Download CV in English [PDF][/_data/CV_Vitoria.pdf)] \| [.docx][1]
-
-Download CV in Portuguese [PDF](/_data/CV_Vitoria_EN.pdf) \| [.docx][2]
+Download CV in Portuguese [PDF](/_data/CV_Vitoria.pdf) \| [.docx][2]
 
 ------------------------------------------------------------------------
 
