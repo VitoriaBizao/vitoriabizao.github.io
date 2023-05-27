@@ -16,9 +16,9 @@ Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets
 
 <p align="center">Av. Pádua Dias, 11 - Piracicaba, SP</p>
 
-<div align="center">[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
-[GitHub](https://github.com/VitoriaBizao)</div>
 
+<center>[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
+[GitHub](https://github.com/VitoriaBizao)<center>
 
 ### Education
 ------------------------------------------------------------------------
