@@ -10,9 +10,9 @@ Download CV in Portuguese [PDF](/_files/CV_Vitoria.pdf) \| [.docx][2]
 
 Download CV in English [PDF][3] \| [.docx][4]
 
-[1]:{{ https://vitoriabizao.github.io/ }}/_files/CV_Vitoria.pdf
+[1]:{{https://vitoriabizao.github.io/}}/_files/CV_Vitoria.pdf
 [2]:{{ https://vitoriabizao.github.io/ }}/_files/CV_Vitoria.docx
-[3]:{{ site.url }}/_files/CV_Vitoria_EN.pdf
+[3]:/_files/CV_Vitoria_EN.pdf
 [4]:{{ site.url }}/_files/CV_Vitoria_EN.docx
 
 ------------------------------------------------------------------------
