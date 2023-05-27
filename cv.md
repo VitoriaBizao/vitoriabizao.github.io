@@ -6,11 +6,17 @@ editor_options:
     wrap: 72
 ---
 
-Download CV in English [get the PDF](/assets/files/CV_Vitoria.pdf) \| [.docx][1]
+Download CV in English [PDF](/assets/files/CV_Vitoria_EN.pdf) \| [.docx](/assets/files/CV_Vitoria_EN.docx)
 
-Download CV in Portuguese [PDF](/_data/CV_Vitoria.pdf) \| [.docx][2]
+Download CV in Portuguese [PDF](/_data/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
 
 ------------------------------------------------------------------------
+
+<div class="centered-text">
+
+Seu texto centralizado aqui.
+
+</div>
 
 Vitória Bizão Murakami
 
