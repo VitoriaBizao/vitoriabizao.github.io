@@ -6,7 +6,7 @@ editor_options:
     wrap: 72
 ---
 
-Download CV in Portuguese [PDF][1] \| [.docx][2]
+Download CV in Portuguese [PDF](/_files/CV_Vitoria.pdf) \| [.docx][2]
 
 Download CV in English [PDF][3] \| [.docx][4]
 
