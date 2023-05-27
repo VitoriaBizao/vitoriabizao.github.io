@@ -10,14 +10,14 @@ Download CV in English [PDF](/assets/files/CV_Vitoria_EN.pdf) \| [.docx](/assets
 
 Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
 
-------------------------------------------------------------------------
+<br>
 
 <p align="center">Vitória Bizão Murakami</p>
 
-Av. Pádua Dias, 11 -- Piracicaba, SP
+<p align="center">Av. Pádua Dias, 11 -- Piracicaba, SP</p>
 
-[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
-[GitHub](https://github.com/VitoriaBizao)
+<p align="center">[LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
+[GitHub](https://github.com/VitoriaBizao)</p>
 
 
 ### Education
