@@ -8,15 +8,9 @@ editor_options:
 
 Download CV in English [PDF](/assets/files/CV_Vitoria_EN.pdf) \| [.docx](/assets/files/CV_Vitoria_EN.docx)
 
-Download CV in Portuguese [PDF](/_data/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
+Download CV in Portuguese [PDF](/assets/files/CV_Vitoria.pdf) \| [.docx](/assets/files/CV_Vitoria.docx)
 
 ------------------------------------------------------------------------
-
-<div class="centered-text">
-
-Seu texto centralizado aqui.
-
-</div>
 
 Vitória Bizão Murakami
 
@@ -24,6 +18,7 @@ Av. Pádua Dias, 11 -- Piracicaba, SP
 
 [LinkedIn](https://www.linkedin.com/in/vitoriabizao/) \|
 [GitHub](https://github.com/VitoriaBizao)
+
 
 ### Education
 ------------------------------------------------------------------------
@@ -35,8 +30,7 @@ Master in Genetics and Plant Breeding
 **MBA (USP/Esalq)** \| **Apr 2021 - 2023**
 
 Master of Business Administration in Project Management. 
-Project "Perfis de comunicação em grupos de pesquisa visando estratégias que aumentem a
-produtividade" develop under Dan Yushin Miyaji supervision.
+Project "Perfis de comunicação em grupos de pesquisa visando estratégias que aumentem a produtividade" develop under Dan Yushin Miyaji supervision.
 
 **Federal University of São Carlos** \| **2015 - 2019**
 
@@ -49,8 +43,7 @@ Bachelor in Biotechnology
 
 Master in Genetics and Plant Breeding, where I’m currently conducting studies with genotype-by-harvest interactions in Panicum maximum via Bayesian probabilistic models under the orientation of professor Antonio Augusto Franco Garcia.
 
-
-**Genetics and Plant Breeding Group "Prof. Roland Vencovsky"** \| **Jun 2020 - Jan 2023**
+**"Prof. Roland Vencovsky" Group (GVENCK)** \| **Jun 2020 - Jan 2023**
 
 I started as a logistic member, then acted as a communication coordinator and assisted in creating art materials for promotional events and seminars through social media.
 
