@@ -93,3 +93,7 @@ I surveyed the activities of the Genetics and Biodiversity Laboratory at UFG, wo
 **Genetics:** Genetics and Statistics, Genomic Selection, Quantitative Genetics
 
 **Computer:** R, Linux, Excel
+
+<div style="width: 200px; height: 20px; border: 1px solid #ccc;">
+  <div style="width: 50%; height: 100%; background-color: #7ac143;"></div>
+</div>
