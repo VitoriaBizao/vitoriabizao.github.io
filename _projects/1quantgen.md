@@ -4,7 +4,7 @@ title: Quantitative Genetics Videos
 description: Heredity, Variation, Selection
 ---
 
-Videos made for the Quantitative Genetics discipline, of the post-graduate program in Genetics and Plant Breeding at ESALQ/USP, administered by professor Antonio Augusto Franco Garcia. You can find my annotations for all classes [here](https://github.com/VitoriaBizao/Genetica_Quantitativa/blob/main/QuantGen.html){:target="_blank"}. But, I think the Felipe Ferrão material is more complete than mine, and you can access [here](https://lfelipe-ferrao.github.io/class/quantGenetic/){:target="_blank"}.
+Videos made for the Quantitative Genetics discipline, of the post-graduate program in Genetics and Plant Breeding at ESALQ/USP, administered by professor Antonio Augusto Franco Garcia. You can find my annotations for all classes [here](http://htmlpreview.github.io/?https://github.com/VitoriaBizao/Genetica_Quantitativa/blob/main/QuantGen.html){:target="_blank"}. But, I think the Felipe Ferrão material is more complete than mine, and you can access [here](https://lfelipe-ferrao.github.io/class/quantGenetic/){:target="_blank"}.
 
 ### Single loci properties
 <div class="video-container">
