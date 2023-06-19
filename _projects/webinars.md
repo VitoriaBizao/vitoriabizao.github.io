@@ -12,7 +12,7 @@ The GVENCK webinar series was a unique opportunity for graduate students to expa
 
 All webinar videos are available in this playlist:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gWrC_tU8HL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQgoXUJx1_7leGU4TIrJD094fssUH5WcV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And here is a special one on LinkedIn. We asked Bruno Brandão for some tips on how to use this powerful networking tool.
 
