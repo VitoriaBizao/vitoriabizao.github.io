@@ -41,11 +41,12 @@ collections:
     permalink: /projects/:name/
     order:
       - quantgen.md
+      - gvenk.md
       - webinars.md
+      - permuta.md
+      - grafitando.md
+      - workshop.md
       - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
 
 sass:
   sass_dir: /assets/css/_sass
