@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GVENCK
-description: Genetics, Breeding, Community
+description: Group, Communication, Soft skills
 ---
 
 In 2020, I had the incredible opportunity to join the `GVENCK`. I initially joined GVENCK as a member of the **logistics** commission. Although the pandemic limited our presidential activities, it did not deter our **enthusiasm** and commitment to contribute to the field of plant genetics and breeding.
