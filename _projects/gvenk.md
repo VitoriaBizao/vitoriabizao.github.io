@@ -18,3 +18,7 @@ So here are some tools that I discovered and learned, that helped me in my GVENK
 - [Git](https://github.com){:target="_blank"}: It's a platform of codes version control. We used to maintain the gvenk website.
 - [OBS studio](https://obsproject.com/){:target="_blank"}: it's a streaming and recording program. Actually, I used this one to make the quantitative genetics videos. But, I still recommend.
 - html: had to learn a little big to update the website.
+
+| ![](/assets/images/gvenk.JPG "ART") |
+|:---:|
+| 2021 GVENCK members |
