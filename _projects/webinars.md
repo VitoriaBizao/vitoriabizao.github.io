@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GVENCK Webinar Series
+title: Webinar Series | GVENCK
 description: Career, Exchange, Community
 ---
 
