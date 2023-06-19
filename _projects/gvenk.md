@@ -19,6 +19,6 @@ So here are some tools that I discovered and learned, that helped me in my GVENK
 - [OBS studio](https://obsproject.com/){:target="_blank"}: it's a streaming and recording program. Actually, I used this one to make the quantitative genetics videos. But, I still recommend.
 - html: had to learn a little big to update the website.
 
-| ![](/assets/images/gvenk.JPG "ART") |
+| ![](/assets/images/gvenk.JPG "2021 GVENCK members") |
 |:---:|
-| 2021 GVENCK members |
+| 2021 GVENCK members. From the left to the right: Givanildo Rodrigues, Maiara Oliveira, Fernanda Campion, Patricia Braga, Gabriel Salgado, Melina Prado, Jessica Ferrarezi, Vitória Bizão and Melissa Miranda.|
