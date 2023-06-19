@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Biotechnology Workshop
+title: I Biotechnology Workshop | "VI de Março" Academic Center
 description: Connections, Careers, Biotechnology
 ---
 

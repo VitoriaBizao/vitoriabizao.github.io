@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grafitando na Federal
+title: Grafitando na Federal | "VI de Março" Academic Center
 description: Artistic transformation
 ---
 

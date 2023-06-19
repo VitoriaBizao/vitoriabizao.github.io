@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Permuta Biotec
+title: Permuta Biotec | "VI de Março" Academic Center
 description: Inspiration, Experiences, Networking
 ---
 
