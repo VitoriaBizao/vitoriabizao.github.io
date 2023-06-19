@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IMPB | GVENCK
-description: Career, Exchange, Community
+description: Agriculture, Gains, Strategy
 ---
 
 The `International Meeting on Plant Breeding` is a prestigious event that brings together professionals, researchers and experts in the field of plant breeding from all over the **world**. 
