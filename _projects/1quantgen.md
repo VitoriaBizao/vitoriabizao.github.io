@@ -27,4 +27,4 @@ Epistasis is an effect that we must take into account when we are trying to unde
 Tools that we use to make the videos:
 
 - [OBS studio](https://obsproject.com/){:target="_blank"}: record our video presentation.
-- [Lightworks](https://filmora.wondershare.net/pt-br/ad/filmora-editor-de-video.html){:target="_blank"}: edit the video.
+- [Lightworks](https://lwks.com/){:target="_blank"}: edit the video.
