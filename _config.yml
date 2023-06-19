@@ -40,8 +40,8 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
+      - quantgen.md
+      - webinars.md
       - redirect.md
       - project4.md
       - project5.md
