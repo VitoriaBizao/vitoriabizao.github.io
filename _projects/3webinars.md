@@ -8,7 +8,7 @@ description: Career, Exchange, Community
 
 Throughout the semester, the webinar series has featured renowned genetics and plant breeding professionals from both the public and private sectors. These experts shared their experiences, knowledge and best practices on soft skills, career management, leadership and women's participation in plant breeding and science.
 
-The GVENCK webinar series was a unique opportunity for graduate students to expand their knowledge, acquire relevant _skills_, and network with experienced professionals and outstanding leaders in the field. This initiative demonstrates the group's commitment to the professional and academic development of its members, while contributing to the advancement of genetics and plant breeding.
+The GVENCK webinar series was a unique opportunity for students to expand their knowledge, acquire relevant _skills_, and network with experienced professionals and outstanding leaders in the field. This initiative demonstrates the group's commitment to the professional and academic development of its members, while contributing to the advancement of genetics and plant breeding.
 
 All webinar videos are available in this playlist:
 
