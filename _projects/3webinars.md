@@ -4,7 +4,7 @@ title: Webinar Series | GVENCK
 description: Career, Exchange, Community
 ---
 
-`The GVENCK Webinar` Series is a series of webinars organized by the **Genetics Group "Prof. Roland Vencovsky" (GVENCK)** to address relevant and timely topics related to career _development_, people management and _innovation_ in science. This initiative aims to complement the graduate students' education by providing insights and perspectives beyond the academic environment to increase their chances of career success.
+The `GVENCK Webinar Series` is a series of webinars organized by the **Genetics Group "Prof. Roland Vencovsky" (GVENCK)** to address relevant and timely topics related to career _development_, people management and _innovation_ in science. This initiative aims to complement the graduate students' education by providing insights and perspectives beyond the academic environment to increase their chances of career success.
 
 Throughout the semester, the webinar series has featured renowned genetics and plant breeding professionals from both the public and private sectors. These experts shared their experiences, knowledge and best practices on soft skills, career management, leadership and women's participation in plant breeding and science.
 
